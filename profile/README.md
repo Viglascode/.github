@@ -1,40 +1,43 @@
-# 👋 Hi there — Welcome to **Viglascode**!
+# 👋 Welcome to Viglascode
 
-🚀 **Viglascode LLC** builds **custom SaaS platforms** and **AI-powered solutions** to help businesses automate, scale, and grow smarter.
-
----
-
-## 🌟 What We Do
-
-* ✅ **Custom SaaS Development** – Full-stack platforms tailored to your business.
-* ✅ **AI & Automation** – Smart systems that save time and boost productivity.
-* ✅ **Web & Mobile Apps** – Fast, modern UIs with React, React Native & Expo.
-* ✅ **System Integrations** – QuickBooks, Stripe, Google Cloud, AWS & more.
+🚀 **Viglascode LLC** builds custom SaaS platforms and intelligent systems that help businesses scale, automate, and grow smarter.
 
 ---
 
-## 🧰 Tech Stack
+## 💼 What We Do
 
-**Backend**: Django · REST API · PostgreSQL · MySQL · Redis · Celery
-**Frontend**: React · Redux · TailwindCSS · React Native · Expo
-**DevOps**: Docker · GitHub Actions · AWS · NGINX
-**AI/ML**: GPT APIs · Computer Vision · Workflow Automation
-
----
-
-## 🛠️ Featured Projects
-
-Coming soon — Stay tuned!
+- ✅ Custom SaaS platform development  
+- ✅ AI-powered automation and smart solutions  
+- ✅ Web and mobile apps (React, React Native, Expo)  
+- ✅ Integrations with Stripe, QuickBooks, AWS, GCP, and more
 
 ---
 
-## 📫 Let's Connect
+## 🧠 Tech Stack
 
-* 🌐 [viglascode.com](https://viglascode.com)
-* 📧 [virgilio@viglascode.com](mailto:virgilio@viglascode.com)
-* 💼 [LinkedIn](https://linkedin.com/company/viglascode)
+- **Backend**: Django · DRF · PostgreSQL · Redis · Celery  
+- **Frontend**: React · Redux · TailwindCSS · React Native · Expo  
+- **DevOps**: Docker · GitHub Actions · AWS  
+- **AI/ML**: OpenAI APIs · Computer Vision · Automation
 
 ---
 
-✨ *Looking for a tech partner to bring your ideas to life? Let’s build together.*
+## 📌 Featured Project
 
+### 🔒 ComcomNet Services  
+Private platform for ISP management: clients, services, tasks, inventory, and mobile apps.  
+🔧 Django · React · Expo · Docker · SPA + API + Mobile  
+
+📁 [Project overview](https://github.com/viglascode/projects/tree/main/comcomnet-services)
+
+---
+
+## 📫 Contact
+
+- 🌐 [viglascode.com](https://viglascode.com)  
+- 📧 [virgilio@viglascode.com](mailto:virgilio@viglascode.com)  
+- 💼 [LinkedIn](https://linkedin.com/company/viglascode)
+
+---
+
+✨ *Looking for a reliable tech partner? Let’s build together.*
