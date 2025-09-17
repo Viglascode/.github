@@ -22,13 +22,9 @@
 
 ---
 
-## 📌 Featured Project
+## 🧩 Our Projects
 
-### 🔒 ComcomNet Services  
-Private platform for ISP management: clients, services, tasks, inventory, and mobile apps.  
-🔧 Django · React · Expo · Docker · SPA + API + Mobile  
-
-📁 [Project overview](https://github.com/viglascode/projects/tree/main/comcomnet-services)
+- 🔒 [ComcomNet Services](https://github.com/viglascode/projects/tree/main/comcomnet-services) – Private ISP platform (SPA + API + Mobile)
 
 ---
 
