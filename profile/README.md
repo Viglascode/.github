@@ -1,37 +1,36 @@
 # 👋 Welcome to Viglascode
 
-🚀 **Viglascode LLC** builds custom SaaS platforms and intelligent systems that help businesses scale, automate, and grow smarter.
+🚀 **Viglascode LLC** builds custom SaaS platforms and intelligent systems to help businesses automate, scale, and grow smarter.
 
 ---
 
-## 💼 What We Do
+## 💼 What We Specialize In
 
-- ✅ Custom SaaS platform development  
-- ✅ AI-powered automation and smart solutions  
-- ✅ Web and mobile apps (React, React Native, Expo)  
-- ✅ Integrations with Stripe, QuickBooks, AWS, GCP, and more
+We design and develop custom robust systems using modern and scalable technologies:
 
----
+### 🧰 Technologies
 
-## 🧠 Tech Stack
-
-- **Backend**: Django · DRF · PostgreSQL · Redis · Celery  
-- **Frontend**: React · Redux · TailwindCSS · React Native · Expo  
-- **DevOps**: Docker · GitHub Actions · AWS  
-- **AI/ML**: OpenAI APIs · Computer Vision · Automation
+- **Backend**: Django · DRF · PostgreSQL · Redis · Celery
+- **Frontend**: React · TailwindCSS · Redux
+- **Mobile**: React Native · Expo
+- **DevOps**: Docker · GitHub Actions · AWS · NGINX
+- **AI/Automation**: OpenAI APIs · Computer Vision · Workflow Automation
+- **Integrations**: Stripe · QuickBooks · Google Cloud · AWS
 
 ---
 
-## 🧩 Our Projects
+## 🧩 Explore Our Projects
 
-- 🔒 [ComcomNet Services](https://github.com/viglascode/projects/tree/main/comcomnet-services) – Private ISP platform (SPA + API + Mobile)
+We’ve built powerful platforms for businesses in sectors like telecommunications, automation, and logistics.
+
+👉 [View our featured projects](https://github.com/viglascode/projects)
 
 ---
 
 ## 📫 Contact
 
-- 🌐 [viglascode.com](https://viglascode.com)  
-- 📧 [virgilio@viglascode.com](mailto:virgilio@viglascode.com)  
+- 🌐 [viglascode.com](https://viglascode.com)
+- 📧 [virgilio@viglascode.com](mailto:virgilio@viglascode.com)
 - 💼 [LinkedIn](https://linkedin.com/company/viglascode)
 
 ---
